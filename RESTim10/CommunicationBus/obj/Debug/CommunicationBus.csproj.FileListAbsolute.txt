@@ -1,0 +1,9 @@
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\CommunicationBus\bin\Debug\CommunicationBus.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\CommunicationBus\bin\Debug\CommunicationBus.pdb
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\CommunicationBus\bin\Debug\Common.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\CommunicationBus\bin\Debug\Common.pdb
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\CommunicationBus\obj\Debug\CommunicationBus.csprojAssemblyReference.cache
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\CommunicationBus\obj\Debug\CommunicationBus.csproj.CoreCompileInputs.cache
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\CommunicationBus\obj\Debug\CommunicationBus.csproj.CopyComplete
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\CommunicationBus\obj\Debug\CommunicationBus.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\CommunicationBus\obj\Debug\CommunicationBus.pdb

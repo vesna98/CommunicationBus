@@ -1,0 +1,6 @@
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\JSONToXMLAdapter\bin\Debug\JSONToXMLAdapter.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\JSONToXMLAdapter\bin\Debug\JSONToXMLAdapter.pdb
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\JSONToXMLAdapter\obj\Debug\JSONToXMLAdapter.csprojAssemblyReference.cache
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\JSONToXMLAdapter\obj\Debug\JSONToXMLAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\JSONToXMLAdapter\obj\Debug\JSONToXMLAdapter.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\JSONToXMLAdapter\obj\Debug\JSONToXMLAdapter.pdb

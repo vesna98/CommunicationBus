@@ -1,0 +1,9 @@
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\WebClient\bin\Debug\WebClient.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\WebClient\bin\Debug\WebClient.pdb
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\WebClient\bin\Debug\Common.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\WebClient\bin\Debug\Common.pdb
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\WebClient\obj\Debug\WebClient.csprojAssemblyReference.cache
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\WebClient\obj\Debug\WebClient.csproj.CopyComplete
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\WebClient\obj\Debug\WebClient.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\WebClient\obj\Debug\WebClient.pdb

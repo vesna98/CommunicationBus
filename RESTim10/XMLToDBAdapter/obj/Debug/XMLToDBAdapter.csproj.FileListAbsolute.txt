@@ -1,0 +1,6 @@
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\XMLToDBAdapter\bin\Debug\XMLToDBAdapter.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\XMLToDBAdapter\bin\Debug\XMLToDBAdapter.pdb
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\XMLToDBAdapter\obj\Debug\XMLToDBAdapter.csprojAssemblyReference.cache
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\XMLToDBAdapter\obj\Debug\XMLToDBAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\XMLToDBAdapter\obj\Debug\XMLToDBAdapter.dll
+C:\Users\Marija-PC\Desktop\NAS_PROJEKAT\RESTim10\XMLToDBAdapter\obj\Debug\XMLToDBAdapter.pdb
