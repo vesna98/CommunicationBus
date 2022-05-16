@@ -1,6 +1,13 @@
 # Communication Bus Console Application
 
-In 3rd year we had a team project in which we implemented a Communication Bus Console Application. 
+In 3rd year we had a team project in which we implemented a Communication Bus Console Application.
+
+First project where we used TFS for Agile software development process.
+---
+Writing user stories, having Scrum meetings with our teaching assistant (sprint
+planning, sprint review and retrospective).
+
+Communication Bus
 ---
 Prilikom pokretanja programa, neophodno je prethodno instalirati bazu Microsoft SQL Server. Kako bi se uspesno konektovali sa bazom podataka potrebno je kreirati bazu pod nazivom “RES” Kreiranje tabela I popunjavanje atributa u bazi potrebno je izvrsiti putem skripti koje su ostavljene u posebnom folderu pod nazivom “Skripte”. Nakon sto se uspesno kreiraju sve tabele u bazi,sa datim atributima, pokrece se aplikacija u nekoj od verzija Visual studia. Iz opcije Server Explorer, nakon kreirane baze, potrebno je uraditi connect sa bazom,nakon cega je aplikacija spremna za pokretanje.
 
